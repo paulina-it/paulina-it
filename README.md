@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Polina</h1>
 <h3 align="center">A result-oriented full-stack developer</h3>
-<p>I am currently in my second year studying Computer Science with Business at Aston University. I am highly educated in various programming languages, including Java, Javascript, Typescript and PHP. Adept at working in international teams and managing deadlines. Continuously pursue new knowledge outside my degree and main field, namely Web Development.</p>
+<p>I am currently in my final year studying Computer Science with Business at Aston University. I am highly educated in various programming languages, including Java, Javascript, Typescript and PHP. Adept at working in international teams and managing deadlines. Continuously pursue new knowledge outside my degree and main field, namely Web Development.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
